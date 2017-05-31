@@ -16,7 +16,7 @@ public class Calcular {
      */
     public static void main(String[] args) {
  
-   
+   //quedo bueno parce
         Gui_CursoDeIngles  X= new Gui_CursoDeIngles();
         X.setTitle("Curso");
         X.setVisible(true);
